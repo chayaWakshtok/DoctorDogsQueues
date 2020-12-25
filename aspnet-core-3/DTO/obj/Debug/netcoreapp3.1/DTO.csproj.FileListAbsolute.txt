@@ -1,0 +1,12 @@
+D:\DoctorDogs\aspnet-core-3\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\DoctorDogs\aspnet-core-3\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\DoctorDogs\aspnet-core-3\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\DoctorDogs\aspnet-core-3\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+D:\DoctorDogs\aspnet-core-3\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\DoctorDogs\aspnet-core-3\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache

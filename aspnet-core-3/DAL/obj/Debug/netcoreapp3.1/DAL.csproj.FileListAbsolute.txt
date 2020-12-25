@@ -1,0 +1,17 @@
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\DoctorDogs\aspnet-core-3\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\DoctorDogs\aspnet-core-3\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
